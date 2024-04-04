@@ -1,2 +1,2 @@
-# delta-pig
+# DeltaPig
 An algorithm to identify mortality episodes in wean-to-finish pig barns
